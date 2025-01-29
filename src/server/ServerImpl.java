@@ -1,5 +1,5 @@
 package server;
-//can I push?
+
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
 import shared.UpperCaseServer;

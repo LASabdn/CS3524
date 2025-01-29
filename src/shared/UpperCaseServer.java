@@ -1,5 +1,5 @@
 package shared;
-//can I push?
+
 import java.rmi.Remote;
 import java.rmi.RemoteException;
 public interface UpperCaseServer extends Remote {

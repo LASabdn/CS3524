@@ -1,5 +1,5 @@
 package client;
-//can I push?
+
 import java.rmi.NotBoundException;
 import java.rmi.RemoteException;
 import java.util.Scanner;
